@@ -1,6 +1,8 @@
 package com.subh.movie.Entity;
 
+
 import jakarta.persistence.Entity;
+
 import jakarta.persistence.Id;
 import lombok.Data;
 
@@ -13,4 +15,5 @@ public class directorEntity {
 	
 	private String directorname;
 	
+
 }
